@@ -25,7 +25,17 @@ text-decoration: none;
   line-height: 1.7em;
 }
 
-.title {
+.title1 {
+  text-align: center;
+  display: block;
+  color: #a7ccea;
+  font-family: Poppins,Arial;
+  font-weight: 600;
+  font-size: 16.8px;
+  text-decoration: none;
+  margin-top:-17.5px;
+}
+.title2 {
   text-align: center;
   display: block;
   color: #aaa;
@@ -34,6 +44,16 @@ text-decoration: none;
   font-size: 16.8px;
   text-decoration: none;
   margin-top:-17.5px;
+}
+
+span.a {
+  display: inline;
+  font-family: Poppins,Arial;
+  color: #95b6d0;
+  font-weight: 500;
+  font-size: 15px;
+  padding left: 15px;
+  padding-right: 15px;
 }
 
 @media only screen and (max-device-width: 320px) {

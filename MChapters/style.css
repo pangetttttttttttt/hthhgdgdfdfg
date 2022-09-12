@@ -1,0 +1,36 @@
+body {
+  background: #0e0e0e;
+}
+
+.logo {
+text-align: center;
+display: block;
+font-family: Trebuchet MS;
+color: #ffff;
+font-size: 34px;
+font-weight: 600;
+line-height: 1em;
+text-decoration: none;
+}
+
+.title {
+text-align: center;
+display: block;
+font-family: Poppins,Arial;
+color: #ffff;
+font-size: 25px;
+font-weight: 600;
+line-height: 1em;
+text-decoration: none;
+}
+
+span.1 {
+  text-align: left;
+
+}
+
+span.2 {
+  text-align: right;
+
+
+}
